@@ -1,0 +1,49 @@
+{
+  "dashboard": {
+    "dashboard": "لوحة التحكم",
+    "orders": "الطلبات",
+    "categories": "الفئات",
+    "products": "المنتجات",
+    "contact-info": "معلومات التواصل",
+    "users-info": "معلومات المستخدمين"
+  },
+
+  "homeDashboard": {
+    "last-year": "اخر سنه",
+    "last-month": "اخر شهر",
+    "export-file": "تصدير الملف",
+    "order-statistics": "إحصائيات الطلبات",
+    "completed-orders": "الطلبات المكتملة",
+    "canceled-orders": "الطلبات الملغية",
+    "revenue-statistics": "إحصائيات الإيرادات",
+    "gross-income": "الدخل الإجمالي",
+    "net-profit": "صافي الربح",
+    "user-statistics": "إحصائيات المستخدمين",
+    "number-of-users": "عدد المستخدمين"
+  },
+  "tables-title": {
+    "username": "اسم المستخدم",
+    "phone": "رقم الهاتف",
+    "price": "السعر",
+    "payment-method": "طريقة الدفع",
+    "status": "الحالة",
+    "image": "الصورة",
+    "name": "الاسم",
+    "suggested-quantity": "الكمية المقترحة",
+    "the-category-it-belongs": "الفئة التابع لها",
+    "fullname": "الاسم كامل",
+    "users": "المستخدمين",
+    "request-code": "رمز الطلب",
+    "order-cost": "تكلفة الطلب",
+    "bg": "لون الخلفية"
+  },
+  "choose-image": "اختر صورة",
+  "name-en": "الاسم بالانجليزي",
+  "name-ar": "الاسم بالعربي",
+  "description-ar": "الوصف بالعربي",
+  "description-en": "الوصف بالانجليزي",
+  "quantity-ar": "الكمية بالعربي",
+  "quantity-en": "الكمية بالانجليزي",
+  "view-the-image": "عرض الصورة",
+  "filter": "فلتر"
+}

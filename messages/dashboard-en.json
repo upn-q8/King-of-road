@@ -1,0 +1,48 @@
+{
+  "dashboard": {
+    "dashboard": "Dashboard",
+    "orders": "Orders",
+    "categories": "Categories",
+    "products": "Products",
+    "contact-info": "Contact info",
+    "users-info": "Users info"
+  },
+  "homeDashboard": {
+    "last-year": "Last year",
+    "last-month": "Last month",
+    "export-file": "Export file",
+    "order-statistics": "Order statistics",
+    "completed-orders": "Completed orders",
+    "canceled-orders": "Canceled orders",
+    "revenue-statistics": "Revenue statistics",
+    "gross-income": "Gross income",
+    "net-profit": "Net profit",
+    "user-statistics": "User statistics",
+    "number-of-users": "Number of users"
+  },
+  "tables-title": {
+    "username": "Username",
+    "phone": "Phone",
+    "price": "Price",
+    "payment-method": "Payment method",
+    "status": "Status",
+    "image": "Image",
+    "name": "Name",
+    "suggested-quantity": "Suggested quantity",
+    "the-category-it-belongs": "The category it belongs to",
+    "fullname": "Full name",
+    "users": "Users",
+    "request-code": "Request code",
+    "order-cost": "Order cost",
+    "bg": "Background"
+  },
+  "choose-image": "Choose image",
+  "name-en": "Name in English",
+  "name-ar": "Name in arabic",
+  "description-en": "Description in English",
+  "description-ar": "Description in arabic",
+  "quantity-ar": "Quantity in arabic",
+  "quantity-en": "Quantity in English",
+  "view-the-image": "View the image",
+  "filter": "Filter"
+}

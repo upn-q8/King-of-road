@@ -1,0 +1,146 @@
+{
+  "hello": "hello",
+  "langs": {
+    "title": "English"
+  },
+  "navbar": {
+    "instagram": "Instagram",
+    "whatsapp": "Whatsapp",
+    "tiktok": "Tiktok",
+    "change-password": "Change password",
+    "logout": "Logout"
+  },
+  "slider": {
+    "heading1": "The finest types of oils",
+    "description1": "Discover the splendor of authentic Syrian oils that combine high quality and natural heritage derived from an ancient heritage and unparalleled creativity",
+    "heading2": "The finest types of crunchy nuts",
+    "description2": "Let our carefully roasted nuts be the healthy choice for your snacks",
+    "heading3": "Discover the splendor of oriental industries",
+    "description3": "Enjoy the authentic traditional taste with our maamoul stuffed with soft dates and rich nuts"
+  },
+  "home": {
+    "heading": "Fresh nuts and oils",
+    "heading2": "Essam Center Authentic taste and unparalleled quality in the world of nuts, spices and oils. We offer you the best from local and international roasters.",
+    "shopnow": "Shop now",
+    "product": "product",
+    "favorites": "All your favorites in one place",
+    "find": "Find out now",
+    "discover": "Discover the finest types of nuts",
+    "selling": "Best selling products",
+    "category": "Categories",
+    "open-close": "Our products reach you the day you are 8:00 AM to 8:00 PM",
+    "shop-now": "Shop now",
+    "our-services": {
+      "heading": "Secure payment methods",
+      "description": "Convenient and secure electronic payment methods",
+      "heading2": "Our products are fresh",
+      "description2": "The finest types of fresh nuts and spices",
+      "heading3": "Fast and reliable delivery",
+      "description3": "Instant and fast delivery for all orders"
+    }
+  },
+  "hero": {
+    "slide1": {
+      "title": "Premium Olive Oil",
+      "description": "Discover the authentic Syrian olive oil that combines ancient tradition and natural goodness in a way that cannot be matched"
+    },
+    "slide2": {
+      "title": "Pure & Natural",
+      "description": "Our olive oil is carefully extracted from the finest Syrian olives, preserving all natural benefits"
+    },
+    "slide3": {
+      "title": "Traditional Excellence",
+      "description": "A heritage of quality passed down through generations of olive oil making expertise"
+    },
+    "buyNow": "Buy Now"
+  },
+  "authPage": {
+    "email": "Email",
+    "password": "Password",
+    "fogotpassword": "Forget your password?",
+    "login": "Login",
+    "no-account": "I don't have account ?",
+    "register": "Register",
+    "country": "Country",
+    "phone": "Phone",
+    "username": "Username"
+  },
+
+  "cart": {
+    "invoice-value": "Invoice value",
+    "discount-value": "Discount value",
+    "delivery-value": "Delivery value",
+    "total-value": "Total value",
+
+    "discount": "Discount code",
+    "confirm": "Confirm",
+    "delivery": "Delivery",
+    "receive": "To receive",
+    "next": "Next",
+    "previous": "Previous",
+    "street-name": "Street name",
+    "name": "Your name",
+    "phone": "Phone",
+    "email": "Email",
+    "pay-now": "Pay now",
+    "payment-method": "Choose a payment method",
+    "delivery-to": "Delivery to",
+    "delivery-time": "Delivery time",
+    "possible": "As soon as possible",
+    "capital-region": "Capital/region name",
+    "if-you": "If you want to receive the order from the store, you can collect your order from the following location",
+    "store-address": "Store address",
+    "here-in-place": "Here in this place the detailed address of the store is written",
+    "phone-numbers": "hone numbers",
+    "shop-on-map": "Show on map",
+    "order-request": "Order processing request"
+  },
+
+  "delivery-locations": "Delivery locations",
+  "delivery-locations-description": "From here you can add and modify the areas you want to deliver your orders to:",
+  "You have not added a site": "You have not added a site",
+  "default": "Default",
+  "addToCart": "Add to cart",
+  "direct": "Direct purchase",
+  "KWD": "KWD",
+  "quantity": "Quantity",
+  "basket": "My basket",
+  "auth": "Log in / Create an account",
+  "categories": "Categories",
+  "city": "City",
+  "search": "Search",
+  "location": "Location",
+  "location_Ar": "Location Ar",
+  "location_En": "Location En",
+  "add": "Add",
+  "save-changes": "Save changes",
+  "save": "Save",
+  "offer": "Offer",
+  "delete": "Delete",
+  "cancel": "Cancel",
+  "status": "Status",
+  "address": "Address",
+  "code-discount": "Code discount",
+  "percent": "Percent",
+  "start-date": "Start date",
+  "end-date": "End date",
+  "confirm": "Confirm",
+  "unit-of-measurement-ar": "unit of measurement ar",
+  "unit-of-measurement-en": "unit of measurement en",
+  "stock": "stock",
+  "delivery": "Delivery",
+  "receive": "Receive",
+  "product-added": "Product added",
+  "pay": "Pay",
+  "profile": "Profile",
+  "delete-account": "Delete account",
+  "personal-info": "Personal info",
+  "order-archive": "Order archive",
+  "footer": "All rights reserved to King Of Road Company© 2024 ",
+  "log-in-before": "Log in before adding the product",
+  "there-is-maintenance-work": "There is maintenance work ",
+  "sorry": "Sorry",
+  "loading": "Loading",
+  "similar-products": "Similar products",
+  "sureDelete": "Are you sure delete !"
+}

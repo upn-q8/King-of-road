@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --swiper-pagination-color: #fe5f0d;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+* {
+  font-family: "Poppins", serif;
+  margin: 0;
+  padding: 0;
+}
+
+.text {
+  color: #fe5f0d;
+}
+
+.bg {
+  background: #fe5f0d;
+}
+
+.btn {
+  background: #fe5f0d;
+  color: #ffffff;
+  border: 1px solid #fe5f0d;
+  transition: 0.4s all;
+}
+
+.btn:hover {
+  color: #e77635;
+  background: #ffffff;
+}
+
+.btn-secondary {
+  color: #fe5f0d;
+  background: #ffffff;
+  border: 1px solid #fe5f0d;
+  transition: 0.4s all;
+}
+
+.btn-three {
+  color: #fe5f0d;
+  border: 1px solid #fe5f0d;
+  transition: 0.4s all;
+}
+
+.btn-secondary:hover {
+  background: #fe5f0d;
+  color: #ffffff;
+}
+
+.swiper-pagination-bullet-active {
+  background: #fff;
+}
+.swiper-pagination-bullet {
+  background: #ccc;
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background-color: #fe5f0d;
+  border-radius: 8px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background-color: #fe5f0d;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  background-color: #e5e7eb;
+}
